@@ -34,6 +34,7 @@ SI No:                                   Components                 Purpose
 # We can send the /start message to receive a welcome message with the commands to control the board.
 # The ESP32-CAM will only respond to messages coming from our Telegram account ID.
 
+##### HAVE A GREAT DAY ####
 
 
 
