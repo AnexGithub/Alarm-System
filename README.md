@@ -34,6 +34,13 @@ SI No:                                   Components                 Purpose
 # We can send the /start message to receive a welcome message with the commands to control the board.
 # The ESP32-CAM will only respond to messages coming from our Telegram account ID.
 
+
+                        ######## PLEASE NOT ######
+
+# esp32cam_done code file is for ESP32 CAM Module for capturing image from telegram bot and also for real time monitoring.
+# motion_tamper_buzzer code file is for this three things and SMS from twilio API.
+
+
 ##### HAVE A GREAT DAY ####
 
 
